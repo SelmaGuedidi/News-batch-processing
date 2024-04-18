@@ -46,8 +46,8 @@
 </dependency>
 </dependencies>
 <modules>
-        <module>module1</module>
-        <module>module2</module>
-        <module>module3</module>
+        <module>Module1</module>
+        <module>Module2</module>
+        <module>Module3</module>
     </modules>
 </project>
