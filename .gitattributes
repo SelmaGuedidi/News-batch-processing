@@ -1,3 +1,6 @@
 wordcount-spark/src/main/resources/True.csv filter=lfs diff=lfs merge=lfs -text
 wordcount-spark/src/main/resources/news.csv filter=lfs diff=lfs merge=lfs -text
 wordcount-spark/src/main/resources/Fake.csv filter=lfs diff=lfs merge=lfs -text
+wordcount-spark/target/classes/news.csv filter=lfs diff=lfs merge=lfs -text
+wordcount-spark/target/classes/True.csv filter=lfs diff=lfs merge=lfs -text
+wordcount-spark/target/classes/Fake.csv filter=lfs diff=lfs merge=lfs -text
